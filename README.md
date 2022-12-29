@@ -2,6 +2,6 @@
 > novo projeto
 programas de instalação
 ````
-Instalação do Java
+node app.js
 
 ````
